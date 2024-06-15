@@ -62,7 +62,8 @@ ipython_config.py
 
 # SageMath parsed files
 *.sage.py
-
+*.tif
+*.png
 # Environments
 .env
 .venv
@@ -91,6 +92,9 @@ dmypy.json
 .vscode/
 
 # Project specific
+Data/first data/
+Data/second data/
+
 Data/DIC-C2DH-HeLa/
 Data/Fluo-N2DL-HeLa/
 Data/PhC-C2DH-U373/
